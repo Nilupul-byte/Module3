@@ -28,7 +28,7 @@ This project is a decentralized web app (dApp) that allows users to mint and for
 
 ### **1. Install Dependencies**
 ```sh
-git clone <repo-url>
-cd <project-folder>
+git clone <https://github.com/Nilupul-byte/Module3.git>
+cd <Module3>
 yarn install
   
