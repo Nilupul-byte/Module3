@@ -31,4 +31,7 @@ This project is a decentralized web app (dApp) that allows users to mint and for
 git clone <https://github.com/Nilupul-byte/Module3.git>
 cd <Module3>
 yarn install
+
+//To remove cache
+rm -rf ./cache ./artifacts
   
